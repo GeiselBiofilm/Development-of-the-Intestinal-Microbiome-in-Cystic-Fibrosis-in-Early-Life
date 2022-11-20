@@ -1,0 +1,82 @@
+,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,CFChange,Phylum,Class,Order,Family,Genus
+ASV_56,533.7782118,30,5.090319035,5.893540227,3.78E-09,2.57E-08,None,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Holdemanella
+ASV_342,13.76554928,29.97482246,4.213839234,7.113423364,1.13E-12,1.37E-11,Normal,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Ruminococcus
+ASV_320,37.33883017,29.87504072,2.836641484,10.53183523,6.16E-26,1.75E-24,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] eligens group
+ASV_270,17.61347379,29.40345583,5.092464237,5.773915035,7.75E-09,5.06E-08,None,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Dielma
+ASV_997,1.213335427,28.86369639,5.091633126,5.668848417,1.44E-08,8.73E-08,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostignum
+ASV_44,421.7372299,28.81028498,5.090479246,5.659640987,1.52E-08,8.74E-08,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Peptoclostridium
+ASV_631,3.993006808,28.8003416,5.091281329,5.656796342,1.54E-08,8.74E-08,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-001
+ASV_202,48.07473716,28.65860507,2.597853952,11.03164597,2.69E-28,1.52E-26,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Eisenbergiella
+ASV_290,16.05164475,28.20440398,2.924917089,9.642804609,5.27E-22,1.28E-20,None,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Coprobacillus
+ASV_1168,1.073294193,26.35632762,5.091449846,5.176585926,2.26E-07,1.07E-06,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Mogibacterium
+ASV_134,87.99337989,26.23924108,2.078789012,12.62236857,1.59E-36,2.70E-34,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Coprococcus
+ASV_761,3.543052859,25.97956378,5.092602998,5.101431192,3.37E-07,1.51E-06,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,[Eubacterium] brachy group
+ASV_251,36.8401117,23.90785638,5.09226473,4.694935879,2.67E-06,1.03E-05,None,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,Acidaminococcus
+ASV_600,6.945288571,21.14545285,5.092567017,4.152218867,3.29E-05,0.000108701,None,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Sporomusaceae,Anaerosinus
+ASV_525,6.320793578,20.80705833,5.091583967,4.086559009,4.38E-05,0.000140432,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Catenibacillus
+ASV_682,2.754952415,19.57225496,5.092239789,3.843545428,0.00012127,0.00036814,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Anaerovoracaceae,Family XIII AD3011 group
+ASV_593,14.29829665,19.56775518,3.203524002,6.108196839,1.01E-09,7.79E-09,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae ND3007 group
+ASV_278,10.63884423,19.55140394,2.29570249,8.516523383,1.64E-17,2.54E-16,None,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillibacter
+ASV_872,1.554123449,19.51008701,5.092040065,3.831487333,0.000127371,0.000379878,None,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Slackia
+ASV_340,28.38728736,18.8389706,2.365292426,7.964753276,1.66E-15,2.16E-14,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae NK4A136 group
+ASV_630,10.58855345,18.66533167,5.092440317,3.665301998,0.000247047,0.00071183,None,Actinobacteriota,Coriobacteriia,Coriobacteriales,Eggerthellaceae,Senegalimassilia
+ASV_643,2.55956271,18.46283194,5.092531574,3.625472257,0.000288434,0.000809735,None,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,[Eubacterium] siraeum group
+ASV_673,3.474056552,18.45264558,5.092378198,3.623581136,0.000290552,0.000809735,None,Actinobacteriota,Coriobacteriia,Coriobacteriales,Atopobiaceae,Libanicoccus
+ASV_522,9.175376523,18.24490842,5.09205489,3.583014876,0.000339651,0.000931302,Normal,Firmicutes,Clostridia,Eubacteriales,Eubacteriaceae,Eubacterium
+ASV_272,37.31052273,18.0247407,5.092401731,3.539536283,0.000400831,0.001064706,None,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 2
+ASV_444,18.84671937,17.99548131,2.813160117,6.396891951,1.59E-10,1.42E-09,None,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Leuconostoc
+ASV_640,2.966680641,17.40153313,5.091792192,3.41756546,0.000631839,0.001579597,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] fissicatena group
+ASV_466,7.362160859,16.81727149,5.091854999,3.302778946,0.000957318,0.002324916,None,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Negativibacillus
+ASV_108,142.1086687,16.30787805,1.883150285,8.659891982,4.72E-18,8.92E-17,None,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum
+ASV_994,1.338883959,16.26927067,5.092687905,3.194633359,0.001400086,0.003305758,Normal,Bacteroidota,Bacteroidia,Bacteroidales,Barnesiellaceae,Barnesiella
+ASV_871,2.423174462,15.47606997,5.092764543,3.03883477,0.002374951,0.005243398,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,CAG-56
+ASV_1406,0.68328274,14.77748543,5.092656027,2.901724632,0.003711146,0.008088395,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lactonifactor
+ASV_245,19.11059099,14.60609224,5.090968979,2.869020083,0.004117457,0.008749595,None,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Faecalitalea
+ASV_164,55.12559945,13.77262559,1.700531064,8.099014405,5.54E-16,7.85E-15,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Tuzzerella
+ASV_65,1099.227999,13.47291149,1.260124195,10.69173304,1.11E-26,4.12E-25,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Eubacterium] hallii group
+ASV_28,942.1779262,12.6138173,1.09770354,11.49109649,1.46E-30,1.24E-28,Normal,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Dorea
+ASV_67,569.7439405,12.26121926,1.431710513,8.564035224,1.09E-17,1.85E-16,Normal,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_9
+ASV_90,229.4500613,12.14380413,1.329353292,9.135121718,6.53E-20,1.39E-18,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gauvreauii group
+ASV_178,88.40096181,11.66383716,2.390892586,4.878444655,1.07E-06,4.54E-06,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae UCG-004
+ASV_356,15.95306562,11.63372602,1.655697669,7.026479672,2.12E-12,2.25E-11,None,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Aliivibrio
+ASV_41,866.4722605,11.58963272,1.084774606,10.68390859,1.21E-26,4.12E-25,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Romboutsia
+ASV_75,526.0635604,11.20823494,1.645926494,6.809681347,9.78E-12,9.24E-11,Normal,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelotrichaceae UCG-003
+ASV_229,42.74075372,9.076123122,2.540378486,3.572744444,0.000353259,0.00095324,Normal,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes
+ASV_235,23.5298514,9.034638564,1.704825405,5.299450923,1.16E-07,5.81E-07,None,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Colidextribacter
+ASV_142,105.8715392,8.955395888,1.488344613,6.017017704,1.78E-09,1.31E-08,None,Firmicutes,Clostridia,Monoglobales,Monoglobaceae,Monoglobus
+ASV_166,66.0637255,8.435617021,1.413632977,5.967331803,2.41E-09,1.71E-08,None,Firmicutes,Bacilli,Erysipelotrichales,Erysipelotrichaceae,Turicibacter
+ASV_47,987.4331307,8.352313062,1.184588151,7.050815978,1.78E-12,2.02E-11,Normal,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium
+ASV_21,809.6853254,8.331421799,1.194575408,6.974379132,3.07E-12,3.07E-11,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter
+ASV_199,75.79881133,7.553910992,1.786902048,4.227378328,2.36E-05,8.20E-05,None,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Dialister
+ASV_82,732.3911039,6.544613727,1.038413983,6.302509245,2.93E-10,2.49E-09,Normal,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia
+ASV_59,334.024227,6.340880167,1.105299488,5.73679825,9.65E-09,6.07E-08,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Sellimonas
+ASV_112,283.6445158,5.937398962,0.954979795,6.21730323,5.06E-10,4.09E-09,None,Firmicutes,Clostridia,Oscillospirales,Butyricicoccaceae,Butyricicoccus
+ASV_419,57.59225171,4.284932428,1.343674695,3.188965636,0.001427828,0.00332508,None,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium
+ASV_8,3136.817845,3.905825692,0.708817401,5.510341151,3.58E-08,1.90E-07,None,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Anaerostipes
+ASV_55,582.4357919,2.980470101,0.758021199,3.931908638,8.43E-05,0.000260484,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Intestinibacter
+ASV_3,13579.61791,2.336799654,0.525787902,4.444376994,8.81E-06,3.33E-05,CF,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Blautia
+ASV_2,12396.59167,-1.900088753,0.548814664,-3.462168341,0.000535842,0.001401433,CF,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium
+ASV_5,3261.66244,-1.937825925,0.466947673,-4.149985188,3.32E-05,0.000108701,Normal,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,[Ruminococcus] gnavus group
+ASV_14,2297.309671,-2.311755395,0.627110702,-3.686359341,0.000227485,0.000666767,None,Firmicutes,Bacilli,Erysipelotrichales,Erysipelatoclostridiaceae,Erysipelatoclostridium
+ASV_6,4638.369977,-2.358913508,0.456417328,-5.168325928,2.36E-07,1.09E-06,Normal,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Veillonella
+ASV_7,6774.897672,-2.401223279,0.503444739,-4.7695866,1.85E-06,7.30E-06,None,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium sensu stricto 1
+ASV_23,2532.872682,-2.793828965,0.652271419,-4.283230695,1.84E-05,6.52E-05,Normal,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus
+ASV_1,9861.096313,-2.91769064,0.601656262,-4.849431187,1.24E-06,5.13E-06,Normal,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia-Shigella
+ASV_89,179.198615,-3.0091252,0.876452141,-3.433302353,0.000596277,0.001512941,Normal,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+ASV_266,34.01047442,-3.032293599,0.975643068,-3.107994819,0.001883614,0.004269524,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Finegoldia
+ASV_49,1245.016447,-3.689826252,1.161310728,-3.177294553,0.00148656,0.00341507,None,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lacticaseibacillus
+ASV_81,645.6738273,-4.005124339,1.413860273,-2.832758241,0.004614827,0.00968544,None,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+ASV_618,10.54366027,-4.107830914,1.334556481,-3.078049504,0.002083603,0.004660691,None,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Rothia
+ASV_136,322.9548711,-4.283470474,0.989231717,-4.330098196,1.49E-05,5.51E-05,None,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pasteurellaceae,Haemophilus
+ASV_128,213.4817765,-4.505853757,1.32522059,-3.400078289,0.000673666,0.001659756,None,Proteobacteria,Gammaproteobacteria,Burkholderiales,Sutterellaceae,Sutterella
+ASV_18,1779.157142,-5.744213476,1.332657687,-4.31034431,1.63E-05,5.90E-05,None,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+ASV_227,103.2166599,-6.203577567,1.193214305,-5.199047265,2.00E-07,9.73E-07,None,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Family XI,Peptoniphilus
+ASV_51,562.9767001,-9.615560635,2.782670522,-3.455515325,0.000549242,0.001414714,CF,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia
+ASV_207,149.3016987,-11.22125102,2.658778129,-4.220454086,2.44E-05,8.29E-05,None,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Limosilactobacillus
+ASV_289,35.93411367,-12.99852006,2.347006305,-5.538340492,3.05E-08,1.67E-07,None,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellaceae,Negativicoccus
+ASV_48,423.5770274,-13.97131076,2.835025443,-4.928107717,8.30E-07,3.62E-06,None,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter
+ASV_934,2.671674821,-14.71653065,5.089542522,-2.891523272,0.003833792,0.008249932,None,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Proteus
+ASV_100,206.8480966,-15.46940205,2.893641377,-5.345998357,8.99E-08,4.63E-07,CF,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_7
+ASV_671,4.494827862,-16.77084076,5.089537172,-3.295160286,0.000983656,0.002355232,None,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Morganella
+ASV_666,5.100481239,-20.65772901,5.088857868,-4.059403807,4.92E-05,0.000154883,None,Actinobacteriota,Actinobacteria,Actinomycetales,Actinomycetaceae,Varibaculum
+ASV_585,6.834414866,-24.47495706,5.091726279,-4.806809267,1.53E-06,6.21E-06,None,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium

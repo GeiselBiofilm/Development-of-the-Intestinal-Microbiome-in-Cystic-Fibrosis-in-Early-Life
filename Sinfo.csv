@@ -1,0 +1,40 @@
+﻿Patient,Gender,Genotype,GenotypeShort,patient_id,Pancreatic_sufficiency,preterm,delivery,breastfed_ever
+103,Unknown,Unknown,Unknown,103,Insufficient,Unknown,Vaginal,No
+104,Male,F508/F508,dF508,104,Insufficient,Pre,Csection,No
+105,Unknown,Unknown,Unknown,105,Insufficient,Unknown,Csection,No
+107,Male,F508/L206W,sF508,107,Insufficient,Full,Csection,No
+109,Male,F508/p.q220x,sF508,109,Insufficient,Full,Vaginal,Yes
+110,Female,F508/F508,dF508,110,Insufficient,Full,Vaginal,Yes
+111,Female,F508/F508,dF508,111,Insufficient,Full,Vaginal,Yes
+112,Female,F508/F508,dF508,112,Insufficient,Full,Vaginal,Yes
+113,Female,F508/F508,dF508,113,Insufficient,Full,Vaginal,Yes
+114,Female,F508/F508,dF508,114,Insufficient,Full,Vaginal,Yes
+115,Male,F508/F508,dF508,115,Insufficient,Full,Vaginal,Yes
+116,Male,F508/2184delA,sF508,116,Insufficient,Full,Csection,Yes
+117,Female,F508/F508,dF508,117,Insufficient,Full,Csection,No
+118,Female,F508/N1303K,sF508,118,Insufficient,Full,Csection,No
+119,Female,F508/N1303K,sF508,119,Insufficient,Full,Csection,No
+120,Female,F508/2140-26A>G,sF508,120,Sufficient,Full,Vaginal,Yes
+121,Male,F508/Q1313X,sF508,121,Insufficient,Full,Csection,No
+122,Female,F508/F508,dF508,122,Insufficient,Full,Vaginal,No
+123,Female,3120+1G>A/3120+1G>A,Rare,123,Insufficient,Full,Vaginal,No
+124,Male,F508/F508,dF508,124,Insufficient,Full,Csection,No
+125,Male,F508/F508,dF508,125,Insufficient,Full,Vaginal,Yes
+126,Female,A455E/c.2377delA,Rare,126,Sufficient,Full,Vaginal,No
+127,Female,F508/F508,dF508,127,Insufficient,Full,Csection,No
+128,Male,F508/R117H7T,sF508,128,Sufficient,Full,Csection,Yes
+129,Female,F508/F508,dF508,129,Insufficient,Full,Vaginal,Yes
+130,Male,F508/F508,dF508,130,Insufficient,Full,Vaginal,Yes
+131,Female,F508/F508,dF508,131,Insufficient,Pre,Vaginal,Yes
+132,Female,F508/R347P,sF508,132,Insufficient,Pre,Vaginal,No
+133,Female,F508/F508,dF508,133,Insufficient,Pre,Csection,Yes
+134,Male,F508/G551D,sF508,134,Insufficient,Full,Vaginal,No
+135,Female,3849+ 10kb C-T/V520F,Rare,135,Sufficient,Full,Csection,No
+136,Male,F508/F508,dF508,136,Insufficient,Full,Vaginal,Yes
+138,Male,F508/F508,dF508,138,Insufficient,Pre,Vaginal,No
+139,Male,F508/del e2e3,sF508,139,Insufficient,Full,Vaginal,Yes
+140,Male,F508/1717-1 G>A,sF508,140,Insufficient,Full,Vaginal,Yes
+141,Male,F508/170 G>A,sF508,141,Unknown,Unknown,Unknown,Unknown
+142,Male,F508/F508,dF508,142,Insufficient,Unknown,Unknown,No
+143,Female,F508/F508,dF508,143,Insufficient,Full,Vaginal,Yes
+144,Female,F508/L206W,sF508,144,Sufficient,Pre,Csection,Yes
